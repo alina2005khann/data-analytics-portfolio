@@ -37,7 +37,7 @@ regions and customers were profitable vs losing money.
 - Discount impact analysis
 - Shipping mode efficiency
 
-**3. Python EDA + Forecasting**
+**3. Python EDA **
 - Connected Python to MySQL via SQLAlchemy
 - Built 5 professional charts (Matplotlib + Seaborn)
 
