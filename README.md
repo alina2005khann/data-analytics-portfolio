@@ -57,6 +57,8 @@ regions and customers were profitable vs losing money.
 | Discount Risk | 40%+ discount = -$122K loss |
 | Best Region | West — $107K profit |
 | Top Customer | Tamara Chand — $8,400 profit |
+<img width="1112" height="1039" alt="sales analytics full dashboard" src="https://github.com/user-attachments/assets/c10d8cc0-4241-4a38-a980-f11d21f2f1c3" />
+
 
 ### 💡 Business Recommendations
 1. Discontinue Tables and Bookcases
